@@ -1,0 +1,24 @@
+{
+  "name": "jp-postal-code",
+  "version": "1.0.0",
+  "description": "japan postal code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vantrieu2000/jp-postal-code.git"
+  },
+  "keywords": [
+    "japan",
+    "postal",
+    "code"
+  ],
+  "author": "Nguyen Van Trieu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vantrieu2000/jp-postal-code/issues"
+  },
+  "homepage": "https://github.com/Vantrieu2000/jp-postal-code#readme"
+}
